@@ -14,7 +14,7 @@ Eng muhimlar:
 - 🧱 MERN stack bilan yaratilgan Full-Stack Web sayt (MongoDB, Express, React, Node)
 - ✨ Sarlavha va tasnif bilan eslatmalarni yaratish, o'zgartirish va o'chirish
 - 😎 Jasurbek Haydaraliyev
-
+- 🌐 https://eslatmalar-mern.onrender.com/
 [![Instagram](https://img.shields.io/badge/Instagram-@jasurbek__coder-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jasurbek__coder?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)<br>
 [![Telegram. Badge with Telegram logo and text Telegram at username in white on a blue background, conveying a friendly and inviting tone.](https://img.shields.io/badge/Telegram-@it_zona_one-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/it_zona_one)
 
