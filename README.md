@@ -1,6 +1,6 @@
-<a href="https://eslatmalar-mern.onrender.com/">
-  <h1 align="center">📝 MERN Stack Eslatmalar Web sayti ✨</h1>
-</a>
+<h1 align="center">
+  <a href="https://eslatmalar-mern.onrender.com/">📝 MERN Stack Eslatmalar Web sayti ✨</a>
+</h1>
 
 <p align="center">
   <a href="https://instagram.com/jasurbekdev" target="_blank">
