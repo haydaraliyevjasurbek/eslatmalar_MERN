@@ -54,7 +54,7 @@ const CreatePage = () => {
 
           <div className="card bg-base-100">
             <div className="card-body">
-              <h2 className="card-title text-2xl mb-4">Yangi eslanma yaratish</h2>
+              <h2 className="card-title text-2xl mb-4">Yangi eslatma yaratish</h2>
               <form onSubmit={handleSubmit}>
                 <div className="form-control mb-4">
                   <label className="label">
