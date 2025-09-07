@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://instagram.com/jasurbekdev" target="_blank">
+  <a href="https://instagram.com/jasurbek__coder" target="_blank">
     <img src="https://instagram.ftas2-2.fna.fbcdn.net/v/t51.2885-19/455759700_390556383711007_2958875798354128723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.ftas2-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QE-3S8Lp9vCuzxm7RnbzDrltcKuHC2Odzogt1BgBWju6aBJkiCd7QRA4HRi9EGCdSQZZxU8fDUZN8d4wajlvQb-&_nc_ohc=VhQnna3IqAgQ7kNvwEMSQkJ&_nc_gid=H4eodMRB9WFqZANJ4VHyJA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfTG0j10i4kxa2R8zcd63YjS8MZiOBtCErs4GyAewkeIQA&oe=689587CB&_nc_sid=7a9f4b" alt="Instagram Profile" width="150" />
   </a>
 </p>
